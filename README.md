@@ -1,57 +1,57 @@
 # O-O-P-key-vocab
 
-### Abstraction
+**Abstraction** - Ignoring unnecessary details
 
-### Methods of the object
+**Methods of the object**
 
-### Attributes
+**Attributes**
 
-### Constructor
+**Constructor**
 
-### Instantiation
+**Instantiation**
 
-### Encapsulation
+**Encapsulation**
 
-### Modularity
+**Modularity**
 
-### Implementation hiding
+**Implementation hiding**
 
-### Interface
+**Interface**
 
-### Data hiding
+**Data hiding**
 
-### Private
+**Private**
 
-### Public
+**Public**
 
-### Sending a message to the object
+**Sending a message to the object**
 
-### Behaviour
+**Behaviour**
 
-### State
+**State**
 
-### Inheritance
+**Inheritance**
 
-### Extend
+**Extend**
 
-### Base class
+**Base class**
 
-### Derived class
+**Derived class**
 
-### Super class
+**Super class**
 
-### Sub-class
+**Sub-class**
 
-### Diamond v Single Inheritance Tree
+**Diamond v Single Inheritance Tree**
 
-### Polymorphism
+**Polymorphism**
 
-### Override a method
+**Override a method**
 
-### Late binding
+**Late binding**
 
-### Class vs Interface
+**Class vs Interface**
 
-### Destructor
+**Destructor**
 
-### del()
+**del()**
